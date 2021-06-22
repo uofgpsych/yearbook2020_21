@@ -1,0 +1,102 @@
+# Dissertation Abstracts {-}
+
+In this section you will find all the dissertation abstracts submitted, arranged by Surname.
+
+```{r abstractsa, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(readxl)
+library(tidyverse)
+
+abstracts_count <- read_csv("abstracts/dissertations_2021.csv") %>%
+  arrange(LastName) %>%
+  group_by(initial) %>%
+  count()
+
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
+  arrange(LastName) %>%
+  filter(Included == "Yes", 
+         initial == "A")
+
+TagFalse <- "Other."
+
+i <- 1L
+```
+
+
+## Surnames beginning with A {-}
+
+**Name:** `r abstracts$FirstName[i]` `r abstracts$LastName[i]`
+
+**Supervisor:** `r abstracts$SFirstName[i]` `r abstracts$SLastName[i]`
+
+**Title:** `r abstracts$Title[i]`
+
+**Abstract:** `r abstracts$Abstract[i]`
+
+**Tags:** `r ifelse(abstracts$Theme1[i] == "NA",TagFalse, abstracts$Theme1[i])``r ifelse(abstracts$Theme2[i] == "NA"," ", paste(", ", abstracts$Theme2[i]))``r ifelse(abstracts$Theme3[i] == "NA"," ", paste(", ", abstracts$Theme3[i]))``r ifelse(abstracts$Theme4[i] == "NA"," ", paste(", ", abstracts$Theme4[i]))`
+
+---
+
+```{r, echo = FALSE}
+i <- i + 1L
+```
+
+**Name:** `r abstracts$FirstName[i]` `r abstracts$LastName[i]`
+
+**Supervisor:** `r abstracts$SFirstName[i]` `r abstracts$SLastName[i]`
+
+**Title:** `r abstracts$Title[i]`
+
+**Abstract:** `r abstracts$Abstract[i]`
+
+**Tags:** `r ifelse(abstracts$Theme1[i] == "NA",TagFalse, abstracts$Theme1[i])``r ifelse(abstracts$Theme2[i] == "NA"," ", paste(", ", abstracts$Theme2[i]))``r ifelse(abstracts$Theme3[i] == "NA"," ", paste(", ", abstracts$Theme3[i]))``r ifelse(abstracts$Theme4[i] == "NA"," ", paste(", ", abstracts$Theme4[i]))`
+
+---
+
+```{r, echo = FALSE}
+i <- i + 1L
+```
+
+**Name:** `r abstracts$FirstName[i]` `r abstracts$LastName[i]`
+
+**Supervisor:** `r abstracts$SFirstName[i]` `r abstracts$SLastName[i]`
+
+**Title:** `r abstracts$Title[i]`
+
+**Abstract:** `r abstracts$Abstract[i]`
+
+**Tags:** `r ifelse(abstracts$Theme1[i] == "NA",TagFalse, abstracts$Theme1[i])``r ifelse(abstracts$Theme2[i] == "NA"," ", paste(", ", abstracts$Theme2[i]))``r ifelse(abstracts$Theme3[i] == "NA"," ", paste(", ", abstracts$Theme3[i]))``r ifelse(abstracts$Theme4[i] == "NA"," ", paste(", ", abstracts$Theme4[i]))`
+
+---
+
+```{r, echo = FALSE}
+i <- i + 1L
+```
+
+**Name:** `r abstracts$FirstName[i]` `r abstracts$LastName[i]`
+
+**Supervisor:** `r abstracts$SFirstName[i]` `r abstracts$SLastName[i]`
+
+**Title:** `r abstracts$Title[i]`
+
+**Abstract:** `r abstracts$Abstract[i]`
+
+**Tags:** `r ifelse(abstracts$Theme1[i] == "NA",TagFalse, abstracts$Theme1[i])``r ifelse(abstracts$Theme2[i] == "NA"," ", paste(", ", abstracts$Theme2[i]))``r ifelse(abstracts$Theme3[i] == "NA"," ", paste(", ", abstracts$Theme3[i]))``r ifelse(abstracts$Theme4[i] == "NA"," ", paste(", ", abstracts$Theme4[i]))`
+
+---
+
+```{r, echo = FALSE}
+i <- i + 1L
+```
+
+**Name:** `r abstracts$FirstName[i]` `r abstracts$LastName[i]`
+
+**Supervisor:** `r abstracts$SFirstName[i]` `r abstracts$SLastName[i]`
+
+**Title:** `r abstracts$Title[i]`
+
+**Abstract:** `r abstracts$Abstract[i]`
+
+**Tags:** `r ifelse(abstracts$Theme1[i] == "NA",TagFalse, abstracts$Theme1[i])``r ifelse(abstracts$Theme2[i] == "NA"," ", paste(", ", abstracts$Theme2[i]))``r ifelse(abstracts$Theme3[i] == "NA"," ", paste(", ", abstracts$Theme3[i]))``r ifelse(abstracts$Theme4[i] == "NA"," ", paste(", ", abstracts$Theme4[i]))`
+
+---
