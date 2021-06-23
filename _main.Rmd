@@ -598,8 +598,7 @@ abstracts_count <- read_csv("abstracts/dissertations_2021.csv") %>%
 
 abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "A")
+  filter(initial == "A")
 
 TagFalse <- "Other."
 
@@ -693,10 +692,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "B")
+  filter(initial == "B")
 
 TagFalse <- "Other."
 
@@ -870,10 +868,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "C")
+  filter(initial == "C")
 
 TagFalse <- "Other."
 
@@ -983,10 +980,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "D")
+  filter(initial == "D")
 
 TagFalse <- "Other."
 
@@ -1080,10 +1076,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "E")
+  filter(initial == "E")
 
 TagFalse <- "Other."
 
@@ -1113,10 +1108,9 @@ i <- 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "F")
+  filter(initial == "F")
 
 TagFalse <- "Other."
 
@@ -1229,10 +1223,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "G")
+  filter(initial == "G")
 
 TagFalse <- "Other."
 
@@ -1415,10 +1408,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "H")
+  filter(initial == "H")
 
 TagFalse <- "Other."
 
@@ -1625,10 +1617,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "I")
+  filter(initial == "I")
 
 TagFalse <- "Other."
 
@@ -1675,10 +1666,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "J")
+  filter(initial == "J")
 
 TagFalse <- "Other."
 
@@ -1759,10 +1749,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "K")
+  filter(initial == "K")
 
 TagFalse <- "Other."
 
@@ -1911,10 +1900,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "L")
+  filter(initial == "L")
 
 TagFalse <- "Other."
 
@@ -2009,10 +1997,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "M")
+  filter(initial == "M")
 
 TagFalse <- "Other."
 
@@ -2412,10 +2399,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "N")
+  filter(initial == "N")
 
 TagFalse <- "Other."
 
@@ -2462,10 +2448,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "O")
+  filter(initial == "O")
 
 TagFalse <- "Other."
 
@@ -2512,10 +2497,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "P")
+  filter(initial == "P")
 
 TagFalse <- "Other."
 
@@ -2545,10 +2529,9 @@ i <- 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "Q")
+  filter(initial == "Q")
 
 TagFalse <- "Other."
 
@@ -2578,10 +2561,9 @@ i <- 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "R")
+  filter(initial == "R")
 
 TagFalse <- "Other."
 
@@ -2679,10 +2661,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "S")
+  filter(initial == "S")
 
 TagFalse <- "Other."
 
@@ -2950,10 +2931,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "T")
+  filter(initial == "T")
 
 TagFalse <- "Other."
 
@@ -3124,10 +3104,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "V" | initial == "v")
+  filter(initial == "V" | initial == "v")
 
 TagFalse <- "Other."
 
@@ -3173,10 +3152,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "W")
+  filter(initial == "W")
 
 TagFalse <- "Other."
 
@@ -3274,10 +3252,9 @@ i <- i + 1L
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "Y")
+  filter(initial == "Y")
 
 TagFalse <- "Other."
 

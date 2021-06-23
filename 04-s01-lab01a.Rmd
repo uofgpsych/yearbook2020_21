@@ -14,8 +14,7 @@ abstracts_count <- read_csv("abstracts/dissertations_2021.csv") %>%
 
 abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "A")
+  filter(initial == "A")
 
 TagFalse <- "Other."
 

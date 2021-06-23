@@ -4,10 +4,9 @@
 library(readxl)
 library(tidyverse)
 
-abstracts <- read_xlsx("abstracts/abstracts_amended.xlsx") %>%
+abstracts <- read_csv("abstracts/dissertations_2021.csv") %>%
   arrange(LastName) %>%
-  filter(Included == "Yes", 
-         initial == "J")
+  filter(initial == "J")
 
 TagFalse <- "Other."
 
