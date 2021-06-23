@@ -20,7 +20,7 @@ In this section you will find images and photos that people submitted to represe
 <div>
 <span style = "float: right;">**Bethany Shelton and Friends**</span>
 <br>
-<img src="images/Bethany_Shelton3.JPG"> 
+<img src="images/Bethany_Shelton 3.JPG"> 
 </div>
 
 <div>
@@ -70,7 +70,7 @@ In this section you will find images and photos that people submitted to represe
 ---
 
 <div>
-<span style = "float: right;">**Cameron and More Friends **</span>
+<span style = "float: right;">**Cameron and More Friends**</span>
 </div>
 
 <div align = "center">
@@ -82,13 +82,13 @@ In this section you will find images and photos that people submitted to represe
 </div>
 
 ---
+
 <div>
-<span style = "float: right;">**How Many Pals does Cameron Have?!**</span>
+<span style = "float: right;">**How Many Pals does Cameron Have!**</span>
+<br>
+<img src="images/Cameron3.jpeg"> 
 </div>
 
-<div align = "center">
-<img height = "80%" width = "80%" src="images/Cameron3.jpeg"> 
-</div>
 
 <div>
 <br>
@@ -126,7 +126,7 @@ In this section you will find images and photos that people submitted to represe
 <div>
 <span style = "float: right;">**The Posh and Becks of Class of 2021**</span>
 <br>
-<img src="images/Graham_and_I_celebrating_end_of_Level_4.png"> 
+<img src="images/Graham_and_I_celebrating_end_of_Level_4.jpeg"> 
 </div>
 
 <div>
@@ -189,7 +189,7 @@ In this section you will find images and photos that people submitted to represe
 <div>
 <span style = "float: right;">**Maria and the Hong Kong Crew Meet Some New Friends**</span>
 <br>
-<img src="images/Maria_HK2.jpg"> 
+<img src="images/MariaHK2.jpg"> 
 </div>
 
 <div>
@@ -200,7 +200,7 @@ In this section you will find images and photos that people submitted to represe
 
 
 <div>
-<span style = "float: right;">**Naomi has a snow day**</span>
+<span style = "float: right;">**Naomi has a Snow Day**</span>
 <br>
 <img src="images/Naomi.jpeg"> 
 </div>
@@ -212,7 +212,7 @@ In this section you will find images and photos that people submitted to represe
 ---
 
 <div>
-<span style = "float: right;">**Nicola and friend having a ball**</span>
+<span style = "float: right;">**Nicola and Friend Having a Ball**</span>
 <br>
 <img src="images/Nicola_ball.jpg"> 
 </div>
@@ -239,6 +239,177 @@ In this section you will find images and photos that people submitted to represe
 <span style = "float: right;">**Noor, Who's Your Other Friend?**</span>
 <br>
 <img src="images/Noor3.jpg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Irn-Bru and Lambrini Fuels Olivia's Time at UofG**</span>
+<br>
+<img src="images/Olivia_Banda.jpeg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Paulann and Friends**</span>
+<br>
+<img src="images/Paulann1.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Paulann and Friend Chillin' in the Park**</span>
+<br>
+<img src="images/Paulann2.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**Rachel and Friends in the Christmas Cloisters**</span>
+<br>
+<img src="images/Rachel2.jpg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**Rachel and Friends in the Online World**</span>
+<br>
+<img src="images/Rachel4.jpeg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**The Story of Rebecca's Travels! First Year**</span>
+<br>
+<img src="images/Rebecca_Wright_1st_year.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**....Second Year....**</span>
+<br>
+<img src="images/Rebecca_Wright_2nd_year.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**......Third Year....**</span>
+<br>
+<img src="images/Rebecca_Wright_3rd_year.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Fourth Year! Scotland looks Beautiful**</span>
+<br>
+<img src="images/Rebecca_Wright_4th_year.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Rebeka is All Smiles**</span>
+<br>
+<img src="images/Rebeka_collage.pdf"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Rhiannan having fun in labs....**</span>
+<br>
+<img src="images/Rhiannon2.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**......and out!**</span>
+<br>
+<img src="images/Rhiannon3.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Sarah's Reunion of Psychology Friends since 1st Year**</span>
+<br>
+<img src="images/Sarah_reunion.jpeg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Susie and Mia**</span>
+<br>
+<img src="images/Susie_Mia_2018.jpeg"> 
 </div>
 
 <div>

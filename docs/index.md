@@ -2,12 +2,12 @@
 title: "Class of 2021 Yearbook"
 author: "Dr Heather Cleland Woods"
 date: "2021-06-23"
-site: bookdown::bookdown_site
+bibliography: [packages.bib]
+description: UofG Psychology Class of 2021 Yearbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
 link-citations: yes
-description: "UofG Psychology Class of 2021 Yearbook"
+site: bookdown::bookdown_site
+biblio-style: apalike
 ---
 
 

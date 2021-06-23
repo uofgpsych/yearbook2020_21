@@ -2,12 +2,12 @@
 title: "Class of 2021 Yearbook"
 author: "Dr Heather Cleland Woods"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+bibliography: [packages.bib]
+description: UofG Psychology Class of 2021 Yearbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
 link-citations: yes
-description: "UofG Psychology Class of 2021 Yearbook"
+site: bookdown::bookdown_site
+biblio-style: apalike
 ---
 
 ```{r cite-packages, include = FALSE}
@@ -38,3 +38,17 @@ We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
 <img height = "80%" width = "80%" src="images/dissertationBanner.JPG">
 <br>
 </div>
+
+---
+
+<div>
+<span style = "float: right;">**A Snowy Campus Trip - One Year Since My Last Lecture On Campus by Sarah Smith**</span>
+<br>
+<img src="images/Sarah_snow.jpeg"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---

@@ -113,9 +113,9 @@ library(webex)
 ## Our Projects! {-}
 
 <div>
-<span style = "float: right;">**Participants by Julia Someya**</span>
+<span style = "float: right;">**Olivia Lesley**</span>
 <br>
-<img src="images/JuliaSomeya.png"> 
+<img src="images/Olivia_Lesley.pdf"> 
 </div>
 
 
@@ -126,22 +126,9 @@ library(webex)
 ---
 
 <div>
-<span style = "float: right;">**A Meta-Analysis Shiny App by Mandy Norrbo**</span>
+<span style = "float: right;">**Sarah Smith**</span>
 <br>
-<img src="images/MandyNorrbo_Study.png"> 
-</div>
-
-
-<div>
-<br>
-</div>
-
----
-
-<div align = "center">
-<span style = "float: right;">**My Journey in Studies by Iza Soklic Poljak**<br>Download <a href="images/IzaSoklicPoljak_journey.pdf" target = "_blank">a pdf of this journey from here</a></span>
-<br>
-<img height = "80%" width = "80%" src="images/IzaSoklicPoljak.png"> 
+<img src="images/Sarah_Smith.jpg"> 
 </div>
 
 
@@ -152,9 +139,23 @@ library(webex)
 ---
 
 <div>
-<span style = "float: right;">**A painting of The Positive Effects of Practicing Mindfulness on Death Anxiety <br>by Jasmin Turner**<br></span>
+<span style = "float: right;">**Francesca Critchley**</span>
 <br>
-<img src="images/JasminTurner.png"> 
+<img src="images/Francesca_Critchley.PNG"> 
+</div>
+
+
+<div>
+<br>
+</div>
+
+
+---
+
+<div>
+<span style = "float: right;">**Bethany Shelton**<br></span>
+<br>
+<img src="images/Bethany_Shelton.PNG"> 
 </div>
 
 
@@ -165,11 +166,9 @@ library(webex)
 ---
 
 <div>
-<span style = "float: right;">**How Childline Counsellors Make Sense Of And Cope With High-Risk Contacts <br>by Mary Wilson**<br>Download <a href="images/MaryWilson.png" target = "_blank">a larger image from here</a><br><br></span>
-</div>
-
-<div align = "center">
-<img height = "80%" width = "80%" src="images/MaryWilson.png">
+<span style = "float: right;">**Graham Reid**<br></span>
+<br>
+<img src="images/Graham_Reid.PNG">
 </div>
 
 
@@ -179,25 +178,11 @@ library(webex)
 
 ---
 
+
 <div>
-<span style = "float: right;">**Psychologically informed food waste behaviour intervention by Elisa Serra**<br>Download <a href="images/ElisaSerra.png" target = "_blank">a larger image from here</a></span>
+<span style = "float: right;">**Kaitlin Turner**<br></span>
 <br>
-<img src="images/ElisaSerra.png"> 
-</div>
-
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**Brain Alpha Rhythms, Alerting and Attention by Simon Hanzal**<br>Download <a href="images/SimonHanzal.png" target = "_blank">an image of this poster from here</a><br><br></span>
-</div>
-
-<div align = "center">
-<img height = "80%" width = "80%" src="images/SimonHanzal.png"> 
+<img src="images/Kaitlin_Turner_Project.jpg">
 </div>
 
 
@@ -207,10 +192,11 @@ library(webex)
 
 ---
 
+
 <div>
-<span style = "float: right;">**Do Superheroes Created By Children Adhere To Gender Stereotypes By Naomi Conway**<br>Download <a href="images/NaomiConway_poster.pdf" target = "_blank">a pdf of this poster from here</a></span>
+<span style = "float: right;">**Noor Sabha**<br></span>
 <br>
-<img src="images/NaomiConway.png"> 
+<img src="images/Noor_Sabha.JPG">
 </div>
 
 
@@ -220,97 +206,4 @@ library(webex)
 
 ---
 
-<div>
 
-<span style = "float: right;">**The effect of expectations on subjective time perception with realworld scenes<br>By Rebecca Griffith**<br>Download <a href="images/RebeccaGriffith_poster.pdf" target = "_blank">a pdf of this poster from here</a></span>
-<br>
-<br>
-<img src="images/RebeccaGriffith.png"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**Conclusions from Contextual Differences in Abortion Stigma: Investigating the Influence of <br>Disgust Sensitivity, Empathy and Just-World Beliefs <br>By Jessica Kenny**<br>Download <a href="images/JessicaKenny_fulltalk.pdf" target = "_blank">a pdf of this talk from here</a></span>
-<br>
-<br>
-<img src="images/JessicaKenny_LastSlide.png"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**Themes from The Lived Experience of the Relationship Between Parenting and Leadership <br>By Kim Rosenberger**<br>Download <a href="images/KimRosenberger_ExecutiveSummary.pdf" target = "_blank">an executive summary pdf of this work from here</a></span>
-<br>
-<br>
-<img src="images/KimRosenberger_themes.png"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-**An Updated Abstract By Hannah Mulvihill**
-
-Read the full updated abstract <a href="images/HannahMulvihill_AbstractUpdated.pdf" target = "_blank">by clicking here</a>
-</div>
-
-```{block, type = "info3"}
-**Title:** An Empirical Investigation of Self-Regulation and Social Media Use, and the Influence of These Variables on Sleep Quality in Undergraduate University Students
-
-**It was concluded that self-regulation and social media use have the ability to predict sleep quality, however this ability varied depending on the social media measure used. The meanings and implications of these findings are discussed, with the suggestion that researchers begin to implement cognitive measures of social media in future studies.**
-```
-
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**Help-Seeking, Study Strategies and Academic Achievement By Nairn Murray**<br>Download <a href="images/NairnMurray_Poster.pdf" target = "_blank">a pdf of this poster from here</a></span>
-<br>
-<img src="images/NairnMurray_Poster.png"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**Does participant awareness impact the effect of Interpretation<br> Bias Modification (IBM) on interpretation bias and anxiety? By Flora Anderson**<br>Download <a href="images/FloraAnderson_Poster.pdf" target = "_blank">a pdf of this poster from here</a></span>
-<br>
-<img src="images/FloraAnderson_Poster.png"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
-
-<div>
-<span style = "float: right;">**The Effect of Tattoo Narrative on Tattoo Stigma in the Workplace By Rebecca Stewart**<br>Download <a href="images/RebeccaStewart_Poster.pdf" target = "_blank">a pdf of the poster summary (right) from here</a></span>
-<br>
-<img src="images/RebeccaStewart_Combined.png">
-</div>
-
-<div>
-<br>
-</div>
-
----
