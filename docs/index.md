@@ -1,8 +1,8 @@
 --- 
 title: "Class of 2021 Yearbook"
 author: "Dr Heather Cleland Woods"
-date: "2021-06-23"
-bibliography: [packages.bib]
+date: "2021-06-24"
+bibliography: packages.bib
 description: UofG Psychology Class of 2021 Yearbook
 documentclass: book
 link-citations: yes
@@ -24,9 +24,14 @@ We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
 
 ---
 
-<div align = "center">
-<span style = "float: right;">**Class of 2020**</span>
+<div>
+<span style = "float: right;">**A Snowy Campus Trip - One Year Since My Last Lecture On Campus by Sarah Smith**</span>
 <br>
-<img height = "80%" width = "80%" src="images/dissertationBanner.JPG">
+<img src="images/Sarah_snow.jpeg"> 
+</div>
+
+<div>
 <br>
 </div>
+
+---

@@ -2,7 +2,7 @@
 title: "Class of 2021 Yearbook"
 author: "Dr Heather Cleland Woods"
 date: "`r Sys.Date()`"
-bibliography: [packages.bib]
+bibliography: packages.bib
 description: UofG Psychology Class of 2021 Yearbook
 documentclass: book
 link-citations: yes
@@ -29,15 +29,6 @@ Yearbook for the University of Glasgow School of Psychology 2020-2021.
 **Programme Lead:** Dr Heather Cleland Woods.
 
 We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
-
----
-
-<div align = "center">
-<span style = "float: right;">**Class of 2020**</span>
-<br>
-<img height = "80%" width = "80%" src="images/dissertationBanner.JPG">
-<br>
-</div>
 
 ---
 
