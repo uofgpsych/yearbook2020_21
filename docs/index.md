@@ -26,14 +26,8 @@ We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
 
 ---
 
-<div>
-<span style = "float: right;">**A Snowy Campus Trip - One Year Since My Last Lecture On Campus by Sarah Smith**</span>
+<div align = "center">
+<img height = "80%" width = "80%" src="images/Sarah_snow.jpeg"> 
 <br>
-<img src="images/Sarah_snow.jpeg"> 
+<span style = "float: right;">**A Snowy Campus with Bright Skies - A Year Since My Last Lecture On Campus by Sarah Smith**</span>
 </div>
-
-<div>
-<br>
-</div>
-
----
