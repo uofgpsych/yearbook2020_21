@@ -235,17 +235,6 @@ In this section you will find images and photos that people submitted to represe
 
 ---
 
-<div>
-<span style = "float: right;">**Noor, Who's Your Other Friend?**</span>
-<br>
-<img src="images/Noor3.jpg"> 
-</div>
-
-<div>
-<br>
-</div>
-
----
 
 <div>
 <span style = "float: right;">**Irn-Bru and Lambrini Fuels Olivia's Time at UofG**</span>
