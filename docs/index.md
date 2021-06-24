@@ -16,6 +16,8 @@ biblio-style: apalike
 
 <img src="images/SchoolBadge.png" style="width: 200px; float: right;">
 
+---
+
 Yearbook for the University of Glasgow School of Psychology 2020-2021. 
 
 **Programme Lead:** Dr Heather Cleland Woods.
