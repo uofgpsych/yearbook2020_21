@@ -20,16 +20,7 @@ Sadly we can't celebrate together on campus but we are delighted you came to tod
 
 ---
 
-<div>
-<span style = "float: right;">**UofGPsych2021 Roll Call**</span>
-<br>
-<img src="images/GraduationPsychology2021_video.mp4"> 
-</div>
-
-
-<div>
-<br>
-</div>
+[![UofGPsych2021 Roll Call]({https://twitter.com/UofGPsychology/photo})]({https://youtu.be/vB-YjRYpCfg} "Graduation Video")
 
 ---
 
@@ -101,7 +92,7 @@ Sadly we can't celebrate together on campus but we are delighted you came to tod
 ---
 
 <div>
-<span style = "float: right;">**Madeline helps Loa get it just right**</span>
+<span style = "float: right;">**Madeleine helps Loa get it just right**</span>
 <br>
 <img src="images/Genevieve helps Loa get it just right.jpg"> 
 </div>
