@@ -1,7 +1,7 @@
 --- 
 title: "Class of 2021 Yearbook"
 author: "Dr Heather Cleland Woods"
-date: "2021-06-24"
+date: "2021-06-25"
 bibliography: packages.bib
 description: UofG Psychology Class of 2021 Yearbook
 documentclass: book
