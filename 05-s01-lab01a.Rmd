@@ -239,3 +239,15 @@
 </div>
 
 ---
+
+<div>
+<span style = "float: right;">**Callum Dawson**</span>
+<br>
+<img src="images/Callum_diss.png"> 
+</div>
+
+<div>
+<br>
+</div>
+
+---
